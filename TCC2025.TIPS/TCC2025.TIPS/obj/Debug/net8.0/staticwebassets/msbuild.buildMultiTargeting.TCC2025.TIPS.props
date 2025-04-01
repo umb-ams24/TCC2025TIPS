@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TCC2025.TIPS.props" />
+</Project>

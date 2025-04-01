@@ -1,0 +1,6 @@
+@TCC2025.TIPS_HostAddress = http://localhost:5274
+
+GET {{TCC2025.TIPS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
